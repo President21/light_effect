@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="91px" viewBox="0 0 250 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>7682C4C9-BCEA-42FA-BBFE-A093ED91B7BF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-9.8%" y="-37.5%" width="119.5%" height="175.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.781645275">
+        <g id="-1" transform="translate(-550.000000, -607.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="bg-tut" transform="translate(-17.000000, -10.000000)">
+                <g id="Group" transform="translate(-103.000000, -20.000000)">
+                    <g id="Group-2-Copy-3" transform="translate(670.000000, 564.000000)">
+                        <g id="Rectangle-2" transform="translate(-19.000000, 98.000000)">
+                            <rect id="Jonathan_blur" filter="url(#filter-1)" x="0" y="0" width="307" height="80"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
